@@ -65,3 +65,4 @@
 	if ($file != '') {
 		$p->getUpload($file);
 	}
+?>
